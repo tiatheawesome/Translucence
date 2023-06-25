@@ -10,10 +10,10 @@
  * @invite jzJkA6Z
  */
 
-@import url(https://media.discordapp.net/attachments/1023487711618809858/1122527039010898024/TearsofkingdomDesktopHD.png?width=1246&height=701);
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/1023487711618809858/1122527038318850169/Tears_of_kingdom_Desktop_HD.mp4);
+	--app-bg: url(https://media.discordapp.net/attachments/1023487711618809858/1122527039010898024/TearsofkingdomDesktopHD.png?width=1246&height=701);
 	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
